@@ -16,7 +16,8 @@ body{
   width: 200px;
 }
 img{
-    width: 100%;    
+    width: 80%;
+    margin: auto;    
 }
 #menu ul{
     list-style: none;
@@ -48,14 +49,17 @@ img{
 #galeria{
     width: 100%;
     background-color: coral;
+   
 }
 
 #galeria img{
-    width: 338.68px;
+    width: 170px;
+
 }
 #contato{
     width: 100%;  
-    background-color: rgb(202, 143, 14);
+    height: 300px;
+    background-color: rgb(14, 102, 202);
 }
 #footer{
     width: 100%;
@@ -72,8 +76,9 @@ img{
     display: flex;
 }
 p{
-    color: rgb(25, 0, 255);
+    color: rgb(4, 5, 4);
+    margin-right: ;
 }
 .col50{
-    width: 50%;
+    width: 50%
 }
