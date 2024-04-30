@@ -12,10 +12,12 @@
     padding: 30px;
     margin: 30px;
     flex-direction: row;
+   
 }
 
 .black p{
     color: white;
+    align-items: baseline;
 }
 .white{
         width: 400px;
@@ -24,9 +26,11 @@
         padding: 30px;
         margin: 30px;
         flex-direction: row;
+      
 }
 .white p{
     color: #333;
+    align-items: baseline;
 }
 
 /*configuração menor que 1024 d largura*/
