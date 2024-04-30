@@ -11,7 +11,7 @@
     background-color: black;
     padding: 30px;
     margin: 30px;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .black p{
@@ -23,7 +23,7 @@
         border: 1px solid #000;
         padding: 30px;
         margin: 30px;
-        flex-direction: column;
+        flex-direction: row;
 }
 .white p{
     color: #333;
