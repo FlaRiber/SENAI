@@ -17,7 +17,7 @@
 
 .black p{
     color: white;
-    align-items: baseline;
+    
 }
 .white{
         width: 400px;
@@ -30,7 +30,7 @@
 }
 .white p{
     color: #333;
-    align-items: baseline;
+   
 }
 
 /*configuração menor que 1024 d largura*/
