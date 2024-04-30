@@ -20,7 +20,7 @@
     color: #333;
 }
 .container{
-    width: 1024px;
+    max-width: ;
     margin: 0 auto;
     display: flex;
 
