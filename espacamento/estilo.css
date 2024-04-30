@@ -37,5 +37,7 @@
 @media screen  and (max-width:1024px) {
     .container {
         flex-direction: column; /* direção dos  conteudos do display*/
+        align-items: center;
+
     }
 }    
