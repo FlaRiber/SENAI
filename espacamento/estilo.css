@@ -11,12 +11,13 @@
     background-color: black;
     padding: 30px;
     margin: 30px;
-    flex-direction: row;
+    
    
 }
 
 .black p{
     color: white;
+    
     
 }
 .white{
@@ -25,7 +26,7 @@
         border: 1px solid #000;
         padding: 30px;
         margin: 30px;
-        flex-direction: row;
+       
       
 }
 .white p{
