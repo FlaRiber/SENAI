@@ -6,39 +6,39 @@
 }
 
 .black{
-    width: 400px;
+    max-width: 400px;
     height: 400px;
-    background-color: black;
+    background-color: #000;
+    color: #fff;
     padding: 30px;
     margin: 30px;
-    
-   
+       
 }
 
 .black p{
     color: white;
-    
-    
+    margin: 10px 30px;
+    flex-direction: column;
 }
 .white{
-        width: 400px;
+        max-width: 400px;
         height: 400px;
         border: 1px solid #000;
         padding: 30px;
-        margin: 30px;
-       
-      
+        margin: 30px;         
 }
 .white p{
     color: #333;
-   
+    margin: 10px 30px;
+    flex-direction: column;
 }
-
+    
 /*configuração menor que 1024 d largura*/
 @media screen  and (max-width:1024px) {
-    .container {
+    .container{
         flex-direction: column; /* direção dos  conteudos do display*/
-        align-items: center;
-
     }
-}    
+    .black, .white{
+        max-width: 100%;
+}   
+}
