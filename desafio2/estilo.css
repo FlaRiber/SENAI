@@ -22,17 +22,23 @@ p{
 h2{
     color: white;
 }
-.box a p{
-    background-color: rgb(75, 199, 170);
+.botao{
+    background-color: rgb(21, 175, 139);
     display: flex;
     justify-content: center;
-    border-radius: 70px;
+    border-radius: 75px;
     color: blue;
-    padding: 5px 15px;
+    padding: 10px;
+    text-decoration: none;
 }
-.box{
-    display: flex;  
+.botao:hover{
+    color: red;
+    background-color: rgb(226, 208, 43);
 }
+.box:hover{
+    background-color: rgb(11, 173, 73);
+}
+
 @media screen  and (max-width:1024px) {
     #container{
         flex-direction: column;
