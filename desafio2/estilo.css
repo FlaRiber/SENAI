@@ -30,11 +30,9 @@ h2{
     color: blue;
     padding: 5px 15px;
 }
-
 .box{
     display: flex;  
 }
-
 @media screen  and (max-width:1024px) {
     #container{
         flex-direction: column;
