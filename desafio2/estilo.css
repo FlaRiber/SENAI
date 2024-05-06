@@ -23,17 +23,16 @@ h2{
     color: white;
 }
 .box a p{
-    background-color: rgb(235, 132, 218);
+    background-color: rgb(38, 209, 186);
     display: flex;
     justify-content: center;
     border-radius: 70px;
     color: blue;
-    padding: 10px 10px;
+    padding: 5px 15px;
 }
 
 .box{
-    display: flex;
-    
+    display: flex;  
 }
 
 @media screen  and (max-width:1024px) {
