@@ -43,18 +43,14 @@ img{
 }
 #quem-somos{
     width: 100%;
-    background-color: burlywood;
-    
+    background-color: burlywood;   
 }
 #galeria{
     width: 100%;
-    background-color: coral;
-   
+    background-color: coral; 
 }
-
 #galeria img{
-    width: 170px;
-
+    width: 150px;
 }
 #contato{
     width: 100%;  
@@ -69,8 +65,7 @@ img{
 .container{
     width: 1024px;
     height: 100%;
-    margin: 0px auto;
-    
+    margin: 0px auto;   
 }
 .display{
     display: flex;
